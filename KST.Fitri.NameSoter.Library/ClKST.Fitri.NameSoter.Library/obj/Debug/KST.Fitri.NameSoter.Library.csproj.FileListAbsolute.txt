@@ -1,0 +1,12 @@
+E:\Project\KST.Fitri.NameSoter\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\KST.Fitri.NameSoter\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\KST.Fitri.NameSoter\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSoter.Library.csprojAssemblyReference.cache
+E:\Project\KST.Fitri.NameSoter\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSoter.Library.csproj.CoreCompileInputs.cache
+E:\Project\KST.Fitri.NameSoter\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\KST.Fitri.NameSoter\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSoter.Library.csprojAssemblyReference.cache
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSoter.Library.csproj.CoreCompileInputs.cache
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.pdb
