@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KST.Fitri.NameSorter.Web", "KST.Fitri.NameSoter.Web\KST.Fitri.NameSorter.Web.csproj", "{4ABDE178-1613-4888-9C58-EAE779A8E72C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KST.Fitri.NameSorter.Web", "KST.Fitri.NameSorter.Web\KST.Fitri.NameSorter.Web.csproj", "{4ABDE178-1613-4888-9C58-EAE779A8E72C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KST.Fitri.NameSorter.Library", "KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\KST.Fitri.NameSorter.Library.csproj", "{FB3886BD-EA7F-4628-9B46-FFFDEB786B32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KST.Fitri.NameSorter.Library", "KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library.csproj", "{FB3886BD-EA7F-4628-9B46-FFFDEB786B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KST.Fitri.NameSorter.WebTests", "KST.Fitri.NameSoter.WebTests\KST.Fitri.NameSorter.WebTests.csproj", "{10C55776-7049-4920-BA11-66D392B85CCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KST.Fitri.NameSorter.WebTests", "KST.Fitri.NameSorter.WebTests\KST.Fitri.NameSorter.WebTests.csproj", "{10C55776-7049-4920-BA11-66D392B85CCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,17 @@
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSorter.Library.csprojAssemblyReference.cache
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSorter.Library.csproj.CoreCompileInputs.cache
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\Git\KST.Fitri.NameSoter.git\KST.Fitri.NameSoter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\Git\KST.Fitri.NameSorter.git\KST.Fitri.NameSorter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\Git\KST.Fitri.NameSorter.git\KST.Fitri.NameSorter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\bin\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\Git\KST.Fitri.NameSorter.git\KST.Fitri.NameSorter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSorter.Library.csprojAssemblyReference.cache
+E:\Project\Git\KST.Fitri.NameSorter.git\KST.Fitri.NameSorter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\KST.Fitri.NameSorter.Library.csproj.CoreCompileInputs.cache
+E:\Project\Git\KST.Fitri.NameSorter.git\KST.Fitri.NameSorter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.dll
+E:\Project\Git\KST.Fitri.NameSorter.git\KST.Fitri.NameSorter.Web\KST.Fitri.NameSoter.Library\ClKST.Fitri.NameSoter.Library\obj\Debug\ClKST.Fitri.NameSoter.Library.pdb
+E:\Project\Project.GitHub\KST.Fitri.NameSorter\KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library\bin\Debug\KST.Fitri.NameSorter.Library.dll
+E:\Project\Project.GitHub\KST.Fitri.NameSorter\KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library\bin\Debug\KST.Fitri.NameSorter.Library.pdb
+E:\Project\Project.GitHub\KST.Fitri.NameSorter\KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library\obj\Debug\KST.Fitri.NameSorter.Library.csproj.CoreCompileInputs.cache
+E:\Project\Project.GitHub\KST.Fitri.NameSorter\KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library\obj\Debug\KST.Fitri.NameSorter.Library.dll
+E:\Project\Project.GitHub\KST.Fitri.NameSorter\KST.Fitri.NameSorter.Library\KST.Fitri.NameSorter.Library\obj\Debug\KST.Fitri.NameSorter.Library.pdb
